@@ -1,4 +1,4 @@
-# # My First App
+# My First App
 
 This is my practice repository.
 
